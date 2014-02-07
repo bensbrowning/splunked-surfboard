@@ -1,0 +1,24 @@
+[app/ui]
+version = 6.0.1
+modtime = 1391680574.930339000
+
+[app/launcher]
+version = 6.0.1
+modtime = 1391680574.934205000
+
+[app/package/check_for_updates]
+version = 6.0.1
+modtime = 1391680574.936603000
+
+[nav/default]
+version = 6.0.1
+modtime = 1391790874.525819000
+
+[views/surfboard]
+version = 6.0.1
+modtime = 1391795308.962563000
+
+[views/surfboard_current_status]
+owner = admin
+version = 6.0.1
+modtime = 1391792449.849124000
